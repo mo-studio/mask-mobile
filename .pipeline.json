@@ -1,0 +1,9 @@
+{
+  "projectOrWorkspaceName": "runner.xcworkspace",
+  "scheme": "Runner",
+  "packageName": "MASK",
+  "plists": {
+    "release": "buildPlists/release.plist"
+  },
+  "mobileProvisionDir": "ios/mobileProvisions"
+}
